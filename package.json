@@ -1,29 +1,8 @@
 {
-  "name": "skin-combiner",
-  "version": "1.0.0",
-  "description": "An app to combine two skins.",
   "main": "dist/main.js",
   "scripts": {
     "test": "npx tsc && node ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Slqmy/skin-combiner.git"
-  },
-  "keywords": [
-    "minecraft",
-    "skin",
-    "combiner",
-    "combine",
-    "two",
-    "skins"
-  ],
-  "author": "Slqmy",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Slqmy/skin-combiner/issues"
-  },
-  "homepage": "https://github.com/Slqmy/skin-combiner#readme",
   "devDependencies": {
     "@types/node": "^20.14.10",
     "typescript": "^5.5.3"
